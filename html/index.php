@@ -3,13 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Primera vista</title>
-	<style>
-		h1{
-			font-family: Monospace;
-			font-size: 40px;
-			color: #21afde;
-		}
-	</style>
+	<link rel="stylesheet" href="views/css/estilos.css">
 </head>
 <body>
 	
