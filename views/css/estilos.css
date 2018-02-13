@@ -3,3 +3,8 @@ h1{
 	font-size: 40px;
 	color: #21afde;
 }
+span{
+	font-size: 30px;
+	margin: 15px;
+	text-align: center;
+}
