@@ -10,6 +10,8 @@
 	<h1>ESTAMOS EN LA PRIMERA VISTA</h1>
 	<span> <?php echo $variable ?> </span>
 	<h4>Este cambio es Proyecto subido a GitHub solo como prueba de vinculacion de git con github</h4><br>
+
 	<h5>cambio realizado por BSV</h5>
+
 </body>
 </html>
