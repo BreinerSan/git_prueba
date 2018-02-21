@@ -6,10 +6,10 @@
 	<link rel="stylesheet" href="views/css/estilos.css">
 </head>
 <body>
-	
+
 	<h1>ESTAMOS EN LA PRIMERA VISTA</h1>
-	<span> <?php echo $variable ?> </span>	 
+	<span> <?php echo $variable ?> </span>
 	<h4>Este cambio es Proyecto subido a GitHub solo como prueba de vinculacion de git con github</h4><br>
-	
+	<h5>Cambios realizados por breiner1 o persona de equipo 2</h5>
 </body>
 </html>
